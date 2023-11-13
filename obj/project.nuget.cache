@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "C7FXN7cDzSwnWHXsUNZJK1VUTxV19RThsqdIHEVvbw1f5wWy70J737CZs83CtSOTThR+s0rEYewAVMDLzbCBkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kyomi\\Desktop\\wipercs\\csWiper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kyomi\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.9\\microsoft.netcore.app.runtime.win-x64.7.0.9.nupkg.sha512",
+    "C:\\Users\\Kyomi\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.9\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.9.nupkg.sha512",
+    "C:\\Users\\Kyomi\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.9\\microsoft.aspnetcore.app.runtime.win-x64.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

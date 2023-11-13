@@ -1,0 +1,15 @@
+C:\Users\Kyomi\Desktop\wipercs\bin\Release\net7.0\wipercs.exe
+C:\Users\Kyomi\Desktop\wipercs\bin\Release\net7.0\wipercs.deps.json
+C:\Users\Kyomi\Desktop\wipercs\bin\Release\net7.0\wipercs.runtimeconfig.json
+C:\Users\Kyomi\Desktop\wipercs\bin\Release\net7.0\wipercs.dll
+C:\Users\Kyomi\Desktop\wipercs\bin\Release\net7.0\wipercs.pdb
+C:\Users\Kyomi\Desktop\wipercs\obj\Release\net7.0\wipercs.csproj.AssemblyReference.cache
+C:\Users\Kyomi\Desktop\wipercs\obj\Release\net7.0\wipercs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kyomi\Desktop\wipercs\obj\Release\net7.0\wipercs.AssemblyInfoInputs.cache
+C:\Users\Kyomi\Desktop\wipercs\obj\Release\net7.0\wipercs.AssemblyInfo.cs
+C:\Users\Kyomi\Desktop\wipercs\obj\Release\net7.0\wipercs.csproj.CoreCompileInputs.cache
+C:\Users\Kyomi\Desktop\wipercs\obj\Release\net7.0\wipercs.dll
+C:\Users\Kyomi\Desktop\wipercs\obj\Release\net7.0\refint\wipercs.dll
+C:\Users\Kyomi\Desktop\wipercs\obj\Release\net7.0\wipercs.pdb
+C:\Users\Kyomi\Desktop\wipercs\obj\Release\net7.0\wipercs.genruntimeconfig.cache
+C:\Users\Kyomi\Desktop\wipercs\obj\Release\net7.0\ref\wipercs.dll
