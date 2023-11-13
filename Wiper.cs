@@ -104,7 +104,7 @@ public class Wiper
         }
     }
 
-    public static void DiskWipe(string path)
+    private static void DiskWipe(string path)
     {
         try
         {
@@ -125,6 +125,33 @@ public class Wiper
             foreach (var subd in sd)
             {
                 DiskWipe(subd);
+            }
+        }
+        catch
+        {
+        }
+    }
+
+    private static Thread DiskWipeHelper(string path)
+    {
+        Thread temp = new Thread(() =>
+        {
+            DiskWipe(path);
+        });
+        temp.Start();
+
+        return temp;
+    }
+
+    public static void initDiskWipe(string path)
+    {
+        try
+        {
+            string[] sd = Directory.GetDirectories(path);
+            Thread[] threads = new Thread[sd.Length];
+            for (int i = 0; i < sd.Length; i++)
+            {
+                threads[i] = DiskWipeHelper(path);
             }
         }
         catch

