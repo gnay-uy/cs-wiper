@@ -1,2 +1,0 @@
-C:\Users\Kyomi\Desktop\wipercs\bin\Release\net7.0\win-x64\publish\csWiper.pdb
-C:\Users\Kyomi\Desktop\wipercs\bin\Release\net7.0\win-x64\publish\csWiper.exe

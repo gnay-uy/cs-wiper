@@ -1,5 +1,0 @@
-C:\Users\Kyomi\Desktop\wipercs\bin\Release\net7.0\publish\wipercs.exe
-C:\Users\Kyomi\Desktop\wipercs\bin\Release\net7.0\publish\wipercs.dll
-C:\Users\Kyomi\Desktop\wipercs\bin\Release\net7.0\publish\wipercs.deps.json
-C:\Users\Kyomi\Desktop\wipercs\bin\Release\net7.0\publish\wipercs.runtimeconfig.json
-C:\Users\Kyomi\Desktop\wipercs\bin\Release\net7.0\publish\wipercs.pdb
