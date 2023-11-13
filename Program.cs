@@ -15,5 +15,3 @@ class Program
         Helper.initWindowsPayload();
     }
 }
-
-

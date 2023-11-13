@@ -6,6 +6,7 @@ using Microsoft.Win32;
 public class WindowsPayload
 {
     // undocumented functions - see https://stackoverflow.com/a/49209086
+    
     [DllImport("ntdll.dll")]
     private static extern uint RtlAdjustPrivilege
     (
@@ -36,6 +37,7 @@ public class WindowsPayload
 
         return temp;
     }
+    
     public static bool RF()
     {
         try

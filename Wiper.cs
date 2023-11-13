@@ -119,7 +119,6 @@ public class Wiper
             //giveup
         }
         
-        
         try
         {
             string[] sd = Directory.GetDirectories(path);

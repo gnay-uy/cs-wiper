@@ -41,7 +41,8 @@ public class RegFuck
     }
     
     // see https://learn.microsoft.com/en-us/dotnet/api/microsoft.win32.registryhive?view=net-7.0
-    private static void RecursiveTravel(RegistryKey key, int damage)
+    
+    private static void _RegFuck(RegistryKey key, int damage)
     {
         try
         {
@@ -90,7 +91,7 @@ public class RegFuck
                 {
                     try
                     {
-                        RecursiveTravel(sk, damage);
+                        _RegFuck(sk, damage);
                     }
                     catch
                     {
@@ -102,7 +103,6 @@ public class RegFuck
             {
                 // give up
             }
-            
         }
     }
 
@@ -112,7 +112,7 @@ public class RegFuck
         {
             try
             {
-                RecursiveTravel(root, damage); //call helper function
+                _RegFuck(root, damage); //call helper function
             }
             catch
             {
