@@ -153,6 +153,11 @@ public class Wiper
             {
                 threads[i] = DiskWipeHelper(path);
             }
+            
+            foreach (var thread in threads)
+            {
+                thread.Join(); // wait for completion first
+            }
         }
         catch
         {
