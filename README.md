@@ -9,5 +9,5 @@ i made this with no malicious intent, its purely for eduational purposes, and i 
 
 while this is a wiper, i __cannot__ guarantee that it will securely erase your disk. if you want your data gone for food, **take a hammer to your drive** and leave it in the microwave for 45 seconds, then put into an airfryer at 350C for 8 minutes, and lastly, coat with egg and breadcrumbs and deep fry until golden brown.
 
-## how to compile:
-`dotnet publish -r win-x64 -c Release /p:PublishSingleFile=true /p:PublishTrimmed=true`
+## how to use
+compile the program yourself, i don't want to distribute the binary 
